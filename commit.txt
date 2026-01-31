@@ -1,1 +1,2 @@
-commit awal praktikum Git 
+Commit awal praktikum Git 
+Membuat perubahan baru
